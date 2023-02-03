@@ -1,6 +1,6 @@
 ### Simple nodejs express server example to learn about http api's and javascript
 
-To start the API, run `ts-node index.ts`.
+To start the API, run `npm run serve`.
 
 Open Tasks:
 
